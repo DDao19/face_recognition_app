@@ -1,0 +1,20 @@
+p {
+  text-align: center;
+}
+
+.textBox {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.textBox2 {
+  border: 2px solid rgb(202, 140, 202);
+  border-radius: 10px;
+}
+
+.button {
+  margin-left: 10px;
+  background: lightpink;
+  font-size: 25px;
+}

@@ -1,0 +1,12 @@
+.logo {
+  display: flex;
+  justify-content: center;
+}
+
+.Tilt {
+  transform-style: preserve-3d;
+}
+
+.Tilt-inner {
+  transform: translateZ(20px);
+}
